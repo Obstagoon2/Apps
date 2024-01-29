@@ -11,6 +11,7 @@ toggleButton.addEventListener('click', () => {
     }
 });
 
+
 // Note-saving and downloading
 const noteInput = document.getElementById('note-input');
 const saveButton = document.getElementById('save-note');
